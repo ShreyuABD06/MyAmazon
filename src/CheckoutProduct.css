@@ -3,6 +3,10 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+/* .checkoutProduct:hover {
+  transition: transform 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+  transform: scale(1.05);
+} */
 
 .checkoutProduct__info {
   padding-left: 20px;
